@@ -60,7 +60,6 @@ The full circuit can be viewed here: [CircuitLab Simulation Link](https://tinyur
 ## 📷 Circuit Diagram
 
 ![RLC Circuit Diagram](circuit.png)
-*(Include a screenshot or export of your circuit diagram here.)*
 
 ## 📈 Simulation Results
 

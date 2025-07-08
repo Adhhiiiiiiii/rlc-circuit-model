@@ -82,7 +82,7 @@ The full circuit can be viewed here: [CircuitLab Simulation Link](https://tinyur
 ## 🔗 References
 
 * [CircuitLab Online Simulator](https://www.circuitlab.com/)
-* [RLC Circuit Theory - Electronics Tutorials](https://www.electronics-tutorials.ws/accircuits/rlc-circuit.html)
+* [RLC Circuit Theory - Electronics Tutorials](https://www.electronics-tutorials.ws/accircuits/ac-waveform.html)
 
 ---
 

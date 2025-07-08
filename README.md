@@ -65,13 +65,11 @@ The full circuit can be viewed here: [CircuitLab Simulation Link](https://tinyur
 
 ### Voltage across Capacitor (C1.v)
 
-![Voltage across Capacitor](path-to-your-graph-image.png)
-*(Attach a screenshot of the voltage graph showing capacitor charging behavior.)*
+![Voltage across Capacitor](Graphs/Capacitor.jpeg)
 
 ### Current through Resistor (R1.i)
 
-![Current through Resistor](path-to-your-graph-image.png)
-*(Attach a screenshot of the current graph showing the gradual build-up of current.)*
+![Current through Resistor](Graphs/Resistor.jpeg)
 
 ## 💡 Concepts Learned
 
@@ -90,7 +88,6 @@ The full circuit can be viewed here: [CircuitLab Simulation Link](https://tinyur
 
 ### ✨ Author
 
-**Your Name**
-*Your GitHub Profile or Contact Information*
+**Adhiyaman Babu**
 
 ---
